@@ -19,10 +19,22 @@ code {
 }
 
 .delete_btn{
-  margin-left: 50%;
+  margin-left: 10%;
   margin-top: 10%;
+  background: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 .edit_btn{
-  margin-left: 78%;
+  margin-right: 0;
+  background: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.title{
+  color: rgb(117, 117, 117);
 }

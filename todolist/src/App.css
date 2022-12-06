@@ -55,7 +55,7 @@ body {
   margin-bottom: 20px;
 }
 
-button {
+.add {
   padding: 0;
   border: none;
   font-family: "Architects Daughter", cursive;
